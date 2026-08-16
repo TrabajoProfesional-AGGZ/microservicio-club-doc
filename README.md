@@ -23,9 +23,3 @@ Desarrollada con [Just the Docs](https://just-the-docs.com/).
 Este repositorio tiene un carácter estrictamente documental. Su propósito es exponer la arquitectura, el diseño y las especificaciones técnicas de la implementación para su comprensión y evaluación. 
 
 Con el objetivo de proteger la propiedad intelectual del proyecto y salvaguardar el esfuerzo de desarrollo, el código fuente, la lógica de negocio y los detalles de implementación subyacente se mantienen alojados de forma segura en repositorios privados y no se encuentran expuestos al público.
-
-## Aclaración sobre el código fuente 🔒
-
-Este repositorio tiene un carácter estrictamente documental. Su propósito es exponer la arquitectura, el diseño y las especificaciones técnicas de la implementación para su comprensión y evaluación. 
-
-Con el objetivo de proteger la propiedad intelectual del proyecto y salvaguardar el esfuerzo de desarrollo, el código fuente, la lógica de negocio y los detalles de implementación subyacente se mantienen alojados de forma segura en repositorios privados y no se encuentran expuestos al público.
