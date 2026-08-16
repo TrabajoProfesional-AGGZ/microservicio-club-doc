@@ -2,7 +2,7 @@
 
 Microservicio que gestiona la lógica central de "SocioUnido".
 
-📖 **[Ver la documentación online](https://trabajoprofesional-aggz.github.io/microservicio-club/)**
+📖 **[Ver la documentación online](https://trabajoprofesional-aggz.github.io/microservicio-club-doc/)**
 
 ## Licencia ⚖️
 
